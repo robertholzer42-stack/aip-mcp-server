@@ -1,0 +1,13 @@
+{
+  "mcpServers": {
+    "aip": {
+      "command": "/Users/robertholzer/Documents/Next Horizon Innovations/Resilient Innovation/aip-mcp-server/.venv/bin/python",
+      "args": ["-m", "aip.server"],
+      "cwd": "/Users/robertholzer/Documents/Next Horizon Innovations/Resilient Innovation/aip-mcp-server/src",
+      "env": {
+        "AIP_SKILLS_DIR": "/Users/robertholzer/Documents/Next Horizon Innovations/Resilient Innovation/applied-innovation-platform/skills",
+        "AIP_ENGAGEMENTS_DIR": "/Users/robertholzer/Documents/Next Horizon Innovations/Resilient Innovation/applied-innovation-platform/engagements"
+      }
+    }
+  }
+}
