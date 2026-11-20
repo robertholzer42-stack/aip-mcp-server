@@ -1,5 +1,7 @@
 # AIP MCP Server
 
+> **Archived (November 2026).** This server no longer works and isn't maintained. Its default model was retired in June 2026, and its pipeline doesn't pass the challenge or upstream agent outputs through correctly. It stays here for reference only. The Applied Innovation Platform is moving to a Claude Code plugin; watch the [platform repository](https://github.com/robertholzer42-stack/applied-innovation-platform) for that release.
+
 MCP server for the [Applied Innovation Platform](https://github.com/robertholzer42-stack/applied-innovation-platform) -- makes 14 AI innovation agents callable as tools from any Claude session, plus a Prototyper that generates working web apps from design briefs.
 
 ## What It Does
